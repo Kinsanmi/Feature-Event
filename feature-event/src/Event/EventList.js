@@ -2,7 +2,7 @@
 export const EventList = [
     {
         id: '1',
-        /* Image: */
+        Image: "https://res.cloudinary.com/dkngsthge/image/upload/v1705163033/unsplash_MYRG0ptGh50_y3xwow.png",
         names: 'Wizkid in Warri',
         location: 'Lagos',
         date: '8th December, 2021',
@@ -17,7 +17,7 @@ export const EventList = [
         location: 'Lagos',
         date: '31st Oct, 2021',
         duration: 'Starting from',
-        price: '₦15,000',
+        price: ' 15,000',
         ticket: 'Buy Ticket',
     },
 ]

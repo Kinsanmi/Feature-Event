@@ -134,14 +134,14 @@
 
 
 .list-items .featured .feature-style .event-list .location .locate h3{
-    font-size: 15px;
+    font-size: 14px;
     margin-left: 10px;
     font-weight: 300;
 }
 
 .list-items .featured .feature-style .event-list .location .locate h4{
     display: flex;
-    font-size: 15px;
+    font-size: 14px;
     margin-left: 5px;
     font-weight: 300;
 }
@@ -173,7 +173,7 @@
 
 .list-items .featured .feature-style .event-list .start-up .start h3{
     color: #6C757D;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: 400;
     display: flex;
     align-items: center;
@@ -271,7 +271,7 @@
 
 .list-items .event-name .feature-style .event-list .place .locate-place h4{
     display: flex;
-    font-size: 13px;
+    font-size: 12px;
     margin-left: 5px;
     font-weight: 600;
     color: #FF6A2C;
@@ -319,7 +319,7 @@
 
 .list-items .event-name .feature-style .event-list .start-up-line .start h4{
     color: #372AA4;
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 600;
     letter-spacing: 0.5px;
 }
@@ -451,6 +451,9 @@
         font-size: 12px;
         padding: 6px;
     }
+
+
 }
+
 
 

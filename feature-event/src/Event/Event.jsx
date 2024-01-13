@@ -18,7 +18,7 @@ export const Event = () => {
             return (
                 <div key={index} className='feature-style'>
                     <div className="event-list">
-                        {/* <img src="" alt="" /> */}
+                        <img src={items.Image} alt="" />
                         <h2>{items.names}</h2>
 
                         <div className="location">
